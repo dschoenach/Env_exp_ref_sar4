@@ -1,0 +1,128 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+<STAT>
+<TAG>ALL</TAG>
+<VAR>6h Precipitation</VAR>
+<UNIT>mm/6h</UNIT>
+<PERIOD>20211110-20211201</PERIOD>
+ <STATION>
+ <MEAN_OBS>  0.203184634     </MEAN_OBS>
+ <STDV_OBS>  0.587165356     </STDV_OBS>
+ <EXP>
+ <ID>        2141 </ID>
+ <NAME>REF</NAME>
+ <NUM>         471 </NUM>
+ <MEAN>  0.253609717     </MEAN>
+ <STDV>   1.30183366E+28 </STDV>
+ <BIAS>  0.501505077     </BIAS>
+ <RMSE>  0.589210749     </RMSE>
+ <CORR>  0.248069525     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2141 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>         471 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.502377748     </BIAS>
+ <RMSE>  0.554376245     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.251167625     </MEAN_OBS>
+ <STDV_OBS>  0.398386329     </STDV_OBS>
+ <EXP>
+ <ID>        2151 </ID>
+ <NAME>REF</NAME>
+ <NUM>         471 </NUM>
+ <MEAN>  0.151281551     </MEAN>
+ <STDV>   1.30214156E+28 </STDV>
+ <BIAS>  0.522474229     </BIAS>
+ <RMSE>  0.444157630     </RMSE>
+ <CORR>  0.248069525     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2151 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>         471 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.529864371     </BIAS>
+ <RMSE>  0.410975873     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.191295117     </MEAN_OBS>
+ <STDV_OBS>  0.413278192     </STDV_OBS>
+ <EXP>
+ <ID>        2154 </ID>
+ <NAME>REF</NAME>
+ <NUM>         471 </NUM>
+ <MEAN>  0.130782619     </MEAN>
+ <STDV>   1.30181099E+28 </STDV>
+ <BIAS>  0.415462881     </BIAS>
+ <RMSE>  0.666348815     </RMSE>
+ <CORR>   1.30181477E+28 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2154 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>         471 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.374227673     </BIAS>
+ <RMSE>  0.713093281     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.209766433     </MEAN_OBS>
+ <STDV_OBS>  0.437293500     </STDV_OBS>
+ <EXP>
+ <ID>        2171 </ID>
+ <NAME>REF</NAME>
+ <NUM>         471 </NUM>
+ <MEAN>  0.124103755     </MEAN>
+ <STDV>   1.30181477E+28 </STDV>
+ <BIAS>  0.547156096     </BIAS>
+ <RMSE>  0.298122644     </RMSE>
+ <CORR>  0.248069525     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2171 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>         471 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.572837174     </BIAS>
+ <RMSE>  0.274343699     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>  0.182590172     </MEAN_OBS>
+ <STDV_OBS>  0.515227795     </STDV_OBS>
+ <EXP>
+ <ID>        2186 </ID>
+ <NAME>REF</NAME>
+ <NUM>         471 </NUM>
+ <MEAN>  0.160118088     </MEAN>
+ <STDV>   1.30182610E+28 </STDV>
+ <BIAS>  0.499457389     </BIAS>
+ <RMSE>  0.542245150     </RMSE>
+ <CORR>   1.30181099E+28 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2186 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>         471 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>  0.541956067     </BIAS>
+ <RMSE>  0.500010729     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+</STAT>

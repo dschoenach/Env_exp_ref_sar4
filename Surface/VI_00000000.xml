@@ -1,0 +1,2504 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="style.xsl"?>
+<STAT>
+<TAG>ALL</TAG>
+<VAR>Visibility</VAR>
+<UNIT>m</UNIT>
+<PERIOD>20211110-20211201</PERIOD>
+ <STATION>
+ <MEAN_OBS>   14452.8672     </MEAN_OBS>
+ <STDV_OBS>   17489.5723     </STDV_OBS>
+ <EXP>
+ <ID>        1115 </ID>
+ <NAME>REF</NAME>
+ <NUM>         942 </NUM>
+ <MEAN>   38582.8906     </MEAN>
+ <STDV>   1.30182610E+28 </STDV>
+ <BIAS>   15434.1064     </BIAS>
+ <RMSE>  0.467485815     </RMSE>
+ <CORR>  0.248069525     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1115 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>         942 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   15905.9639     </BIAS>
+ <RMSE>  0.427728921     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   16992.2344     </MEAN_OBS>
+ <STDV_OBS>   16447.0371     </STDV_OBS>
+ <EXP>
+ <ID>       20046 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1159 </NUM>
+ <MEAN>   35477.1406     </MEAN>
+ <STDV>   1.30181855E+28 </STDV>
+ <BIAS>   15573.9902     </BIAS>
+ <RMSE>  0.311262965     </RMSE>
+ <CORR>  0.246893406     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       20046 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1159 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   15790.8545     </BIAS>
+ <RMSE>  0.292797595     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   46415.8555     </MEAN_OBS>
+ <STDV_OBS>   19340.5918     </STDV_OBS>
+ <EXP>
+ <ID>        1065 </ID>
+ <NAME>REF</NAME>
+ <NUM>         454 </NUM>
+ <MEAN>   30190.0996     </MEAN>
+ <STDV>   1.30183366E+28 </STDV>
+ <BIAS>   29312.0684     </BIAS>
+ <RMSE>  0.354788899     </RMSE>
+ <CORR>  0.246893406     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1065 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>         454 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   30707.1602     </BIAS>
+ <RMSE>  0.286570907     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   39470.4414     </MEAN_OBS>
+ <STDV_OBS>   20797.8086     </STDV_OBS>
+ <EXP>
+ <ID>        1199 </ID>
+ <NAME>REF</NAME>
+ <NUM>         406 </NUM>
+ <MEAN>   25780.4922     </MEAN>
+ <STDV>   1.30214156E+28 </STDV>
+ <BIAS>   22446.7246     </BIAS>
+ <RMSE>  0.299505919     </RMSE>
+ <CORR>  0.248069525     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1199 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>         406 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   21572.8281     </BIAS>
+ <RMSE>  0.347175777     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   29114.1387     </MEAN_OBS>
+ <STDV_OBS>   16433.9121     </STDV_OBS>
+ <EXP>
+ <ID>        1108 </ID>
+ <NAME>REF</NAME>
+ <NUM>         587 </NUM>
+ <MEAN>   31092.7148     </MEAN>
+ <STDV>   1.30182610E+28 </STDV>
+ <BIAS>   36572.9727     </BIAS>
+ <RMSE>  -2.28996594E-02 </RMSE>
+ <CORR>  0.246893406     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1108 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>         587 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   35800.0312     </BIAS>
+ <RMSE>   3.33206058E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   9270.48438     </MEAN_OBS>
+ <STDV_OBS>   19525.0078     </STDV_OBS>
+ <EXP>
+ <ID>        1150 </ID>
+ <NAME>REF</NAME>
+ <NUM>         454 </NUM>
+ <MEAN>   19432.7969     </MEAN>
+ <STDV>   1.30181855E+28 </STDV>
+ <BIAS>   17203.8672     </BIAS>
+ <RMSE>  0.485290110     </RMSE>
+ <CORR>   1.30181099E+28 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1150 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>         454 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   17384.9316     </BIAS>
+ <RMSE>  0.520261765     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   46450.6016     </MEAN_OBS>
+ <STDV_OBS>   16192.6660     </STDV_OBS>
+ <EXP>
+ <ID>        1152 </ID>
+ <NAME>REF</NAME>
+ <NUM>         992 </NUM>
+ <MEAN>   31945.8047     </MEAN>
+ <STDV>  0.248069048     </STDV>
+ <BIAS>   24919.0566     </BIAS>
+ <RMSE>  0.337244332     </RMSE>
+ <CORR>  0.246893406     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1152 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>         992 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   25497.8418     </BIAS>
+ <RMSE>  0.307327360     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   8621.13965     </MEAN_OBS>
+ <STDV_OBS>   9611.23340     </STDV_OBS>
+ <EXP>
+ <ID>       20107 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1159 </NUM>
+ <MEAN>   46877.1211     </MEAN>
+ <STDV>   1.30214156E+28 </STDV>
+ <BIAS>   10430.1963     </BIAS>
+ <RMSE>  0.135100335     </RMSE>
+ <CORR>   1.30181099E+28 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       20107 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1159 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   9859.98633     </BIAS>
+ <RMSE>   7.58660212E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   34020.7070     </MEAN_OBS>
+ <STDV_OBS>   17951.4336     </STDV_OBS>
+ <EXP>
+ <ID>       22003 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1159 </NUM>
+ <MEAN>   35785.3320     </MEAN>
+ <STDV>  0.246893406     </STDV>
+ <BIAS>   23132.6953     </BIAS>
+ <RMSE>  0.267698526     </RMSE>
+ <CORR>  0.248069525     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       22003 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1159 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   24203.3105     </BIAS>
+ <RMSE>  0.189613760     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   36096.0781     </MEAN_OBS>
+ <STDV_OBS>   19232.9512     </STDV_OBS>
+ <EXP>
+ <ID>       22004 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1159 </NUM>
+ <MEAN>   26783.9746     </MEAN>
+ <STDV>   1.30181099E+28 </STDV>
+ <BIAS>   23036.0254     </BIAS>
+ <RMSE>  0.252352417     </RMSE>
+ <CORR>   1.30182610E+28 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       22004 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1159 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   23153.6758     </BIAS>
+ <RMSE>  0.251000673     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   10016.9111     </MEAN_OBS>
+ <STDV_OBS>   18974.7500     </STDV_OBS>
+ <EXP>
+ <ID>       22113 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1159 </NUM>
+ <MEAN>   30195.7500     </MEAN>
+ <STDV>  0.248069525     </STDV>
+ <BIAS>   19172.5723     </BIAS>
+ <RMSE>  0.166013449     </RMSE>
+ <CORR>   1.30181855E+28 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       22113 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1159 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   19182.9062     </BIAS>
+ <RMSE>  0.167227149     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   10287.7480     </MEAN_OBS>
+ <STDV_OBS>   19405.3770     </STDV_OBS>
+ <EXP>
+ <ID>       22212 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1159 </NUM>
+ <MEAN>   26953.6836     </MEAN>
+ <STDV>   1.30182610E+28 </STDV>
+ <BIAS>   20115.2090     </BIAS>
+ <RMSE>  0.159993157     </RMSE>
+ <CORR>  0.248069048     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       22212 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1159 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   20108.0879     </BIAS>
+ <RMSE>  0.153308168     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   13170.3828     </MEAN_OBS>
+ <STDV_OBS>   18052.5039     </STDV_OBS>
+ <EXP>
+ <ID>       20744 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1121 </NUM>
+ <MEAN>   35219.7422     </MEAN>
+ <STDV>   1.30181855E+28 </STDV>
+ <BIAS>   17807.5254     </BIAS>
+ <RMSE>  0.223215982     </RMSE>
+ <CORR>   1.30214533E+28 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       20744 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1121 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   17826.3398     </BIAS>
+ <RMSE>  0.209089041     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   17756.6875     </MEAN_OBS>
+ <STDV_OBS>   18551.3594     </STDV_OBS>
+ <EXP>
+ <ID>       22028 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1159 </NUM>
+ <MEAN>   34141.7148     </MEAN>
+ <STDV>   1.30181477E+28 </STDV>
+ <BIAS>   17673.3184     </BIAS>
+ <RMSE>  0.309878141     </RMSE>
+ <CORR>   1.30183366E+28 </CORR>
+ </EXP>
+ <EXP>
+ <ID>       22028 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1159 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   17880.0137     </BIAS>
+ <RMSE>  0.265176147     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   16002.3604     </MEAN_OBS>
+ <STDV_OBS>   19212.0469     </STDV_OBS>
+ <EXP>
+ <ID>       22106 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1144 </NUM>
+ <MEAN>   25697.2793     </MEAN>
+ <STDV>   1.30214533E+28 </STDV>
+ <BIAS>   18795.6348     </BIAS>
+ <RMSE>  0.227505744     </RMSE>
+ <CORR>  0.248069048     </CORR>
+ </EXP>
+ <EXP>
+ <ID>       22106 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1144 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   18694.7285     </BIAS>
+ <RMSE>  0.239189595     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   26010.4707     </MEAN_OBS>
+ <STDV_OBS>   18787.3652     </STDV_OBS>
+ <EXP>
+ <ID>        1114 </ID>
+ <NAME>REF</NAME>
+ <NUM>         382 </NUM>
+ <MEAN>   26146.8301     </MEAN>
+ <STDV>   1.30181099E+28 </STDV>
+ <BIAS>   29451.3730     </BIAS>
+ <RMSE>  0.166270137     </RMSE>
+ <CORR>  0.246893406     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1114 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>         382 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   28802.7559     </BIAS>
+ <RMSE>  0.216532692     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   43219.3750     </MEAN_OBS>
+ <STDV_OBS>   19759.6641     </STDV_OBS>
+ <EXP>
+ <ID>        2267 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1151 </NUM>
+ <MEAN>   25436.1113     </MEAN>
+ <STDV>  0.246893406     </STDV>
+ <BIAS>   21328.1113     </BIAS>
+ <RMSE>  0.261403054     </RMSE>
+ <CORR>   1.30181477E+28 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2267 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1151 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   20910.0234     </BIAS>
+ <RMSE>  0.295946300     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   40905.7422     </MEAN_OBS>
+ <STDV_OBS>   18188.4922     </STDV_OBS>
+ <EXP>
+ <ID>        2269 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1152 </NUM>
+ <MEAN>   27863.9551     </MEAN>
+ <STDV>   1.30181855E+28 </STDV>
+ <BIAS>   19445.8730     </BIAS>
+ <RMSE>  0.323381305     </RMSE>
+ <CORR>   1.30183366E+28 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2269 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1152 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   19118.9922     </BIAS>
+ <RMSE>  0.344763637     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   38089.7695     </MEAN_OBS>
+ <STDV_OBS>   18152.6582     </STDV_OBS>
+ <EXP>
+ <ID>        2271 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1152 </NUM>
+ <MEAN>   31310.2539     </MEAN>
+ <STDV>   1.30181477E+28 </STDV>
+ <BIAS>   19801.3145     </BIAS>
+ <RMSE>  0.396629393     </RMSE>
+ <CORR>   1.30214156E+28 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2271 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1152 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   19952.4531     </BIAS>
+ <RMSE>  0.391945273     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   39770.7070     </MEAN_OBS>
+ <STDV_OBS>   19899.3281     </STDV_OBS>
+ <EXP>
+ <ID>        2282 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1151 </NUM>
+ <MEAN>   24067.7480     </MEAN>
+ <STDV>  0.248069525     </STDV>
+ <BIAS>   22420.3652     </BIAS>
+ <RMSE>  0.291775525     </RMSE>
+ <CORR>   1.30181099E+28 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2282 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1151 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   22440.0977     </BIAS>
+ <RMSE>  0.293857813     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   41637.6562     </MEAN_OBS>
+ <STDV_OBS>   16169.0283     </STDV_OBS>
+ <EXP>
+ <ID>        2284 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1159 </NUM>
+ <MEAN>   36153.2148     </MEAN>
+ <STDV>   1.30214156E+28 </STDV>
+ <BIAS>   13425.8877     </BIAS>
+ <RMSE>  0.646839678     </RMSE>
+ <CORR>   1.30183366E+28 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2284 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1159 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   13407.5791     </BIAS>
+ <RMSE>  0.651118577     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   41432.2695     </MEAN_OBS>
+ <STDV_OBS>   19286.9199     </STDV_OBS>
+ <EXP>
+ <ID>        2286 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1159 </NUM>
+ <MEAN>   26095.3438     </MEAN>
+ <STDV>   1.30181099E+28 </STDV>
+ <BIAS>   19438.9395     </BIAS>
+ <RMSE>  0.407840401     </RMSE>
+ <CORR>   1.30182610E+28 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2286 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1159 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   19540.5117     </BIAS>
+ <RMSE>  0.406586438     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   35520.9219     </MEAN_OBS>
+ <STDV_OBS>   18417.8848     </STDV_OBS>
+ <EXP>
+ <ID>        2287 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1114 </NUM>
+ <MEAN>   28110.8633     </MEAN>
+ <STDV>   1.30214533E+28 </STDV>
+ <BIAS>   20684.0820     </BIAS>
+ <RMSE>  0.354483962     </RMSE>
+ <CORR>  0.248069048     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2287 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1114 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   20746.8418     </BIAS>
+ <RMSE>  0.354425222     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   40773.3281     </MEAN_OBS>
+ <STDV_OBS>   18891.4102     </STDV_OBS>
+ <EXP>
+ <ID>        2293 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1136 </NUM>
+ <MEAN>   26996.1562     </MEAN>
+ <STDV>   1.30182610E+28 </STDV>
+ <BIAS>   21325.2910     </BIAS>
+ <RMSE>  0.294257611     </RMSE>
+ <CORR>   1.30183366E+28 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2293 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1136 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   21180.1621     </BIAS>
+ <RMSE>  0.310553849     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   39263.6797     </MEAN_OBS>
+ <STDV_OBS>   16146.4268     </STDV_OBS>
+ <EXP>
+ <ID>        2297 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1144 </NUM>
+ <MEAN>   36636.3672     </MEAN>
+ <STDV>   1.30181855E+28 </STDV>
+ <BIAS>   17616.9453     </BIAS>
+ <RMSE>  0.481532305     </RMSE>
+ <CORR>  0.246893406     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2297 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1144 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   17582.4668     </BIAS>
+ <RMSE>  0.479171664     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   32912.5859     </MEAN_OBS>
+ <STDV_OBS>   19346.0312     </STDV_OBS>
+ <EXP>
+ <ID>        2013 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1159 </NUM>
+ <MEAN>   22750.0020     </MEAN>
+ <STDV>   1.30183366E+28 </STDV>
+ <BIAS>   26559.3887     </BIAS>
+ <RMSE>   6.35768399E-02 </RMSE>
+ <CORR>  0.248069048     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2013 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1159 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   27037.9414     </BIAS>
+ <RMSE>   4.72331792E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   30750.1719     </MEAN_OBS>
+ <STDV_OBS>   20030.1172     </STDV_OBS>
+ <EXP>
+ <ID>        2019 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1159 </NUM>
+ <MEAN>   22240.4766     </MEAN>
+ <STDV>  0.248069525     </STDV>
+ <BIAS>   22302.4785     </BIAS>
+ <RMSE>  0.412560612     </RMSE>
+ <CORR>   1.30181477E+28 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2019 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1159 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   22983.3066     </BIAS>
+ <RMSE>  0.374705076     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   30203.4414     </MEAN_OBS>
+ <STDV_OBS>   19000.4336     </STDV_OBS>
+ <EXP>
+ <ID>        2024 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1123 </NUM>
+ <MEAN>   26024.7129     </MEAN>
+ <STDV>   1.30214156E+28 </STDV>
+ <BIAS>   26435.9785     </BIAS>
+ <RMSE>  0.103722923     </RMSE>
+ <CORR>  0.246893406     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2024 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1123 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   27252.4355     </BIAS>
+ <RMSE>   5.52986190E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   37237.9844     </MEAN_OBS>
+ <STDV_OBS>   19439.9316     </STDV_OBS>
+ <EXP>
+ <ID>        2031 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1144 </NUM>
+ <MEAN>   24404.1738     </MEAN>
+ <STDV>  0.246893406     </STDV>
+ <BIAS>   22642.7598     </BIAS>
+ <RMSE>  0.291332453     </RMSE>
+ <CORR>   1.30181099E+28 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2031 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1144 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   22785.4492     </BIAS>
+ <RMSE>  0.288776398     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   40868.2773     </MEAN_OBS>
+ <STDV_OBS>   18227.3223     </STDV_OBS>
+ <EXP>
+ <ID>        2036 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1098 </NUM>
+ <MEAN>   28966.7930     </MEAN>
+ <STDV>   1.30182610E+28 </STDV>
+ <BIAS>   20528.7109     </BIAS>
+ <RMSE>  0.328026682     </RMSE>
+ <CORR>   1.30214533E+28 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2036 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1098 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   20950.0977     </BIAS>
+ <RMSE>  0.305337459     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   35884.1172     </MEAN_OBS>
+ <STDV_OBS>   19854.0000     </STDV_OBS>
+ <EXP>
+ <ID>        2038 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1135 </NUM>
+ <MEAN>   22040.2637     </MEAN>
+ <STDV>   1.30181099E+28 </STDV>
+ <BIAS>   21513.1113     </BIAS>
+ <RMSE>  0.389549494     </RMSE>
+ <CORR>  0.248069048     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2038 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1135 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   22070.6973     </BIAS>
+ <RMSE>  0.364441752     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   34780.9336     </MEAN_OBS>
+ <STDV_OBS>   19187.3867     </STDV_OBS>
+ <EXP>
+ <ID>        2044 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1159 </NUM>
+ <MEAN>   25000.2285     </MEAN>
+ <STDV>   1.30183366E+28 </STDV>
+ <BIAS>   22644.4355     </BIAS>
+ <RMSE>  0.346230805     </RMSE>
+ <CORR>   1.30181855E+28 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2044 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1159 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   22624.0020     </BIAS>
+ <RMSE>  0.352254748     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   32970.9141     </MEAN_OBS>
+ <STDV_OBS>   19311.9219     </STDV_OBS>
+ <EXP>
+ <ID>        2049 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1136 </NUM>
+ <MEAN>   25379.5078     </MEAN>
+ <STDV>  0.248069525     </STDV>
+ <BIAS>   20811.7051     </BIAS>
+ <RMSE>  0.469279230     </RMSE>
+ <CORR>   1.30214533E+28 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2049 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1136 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   21222.1250     </BIAS>
+ <RMSE>  0.448623061     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   33198.8047     </MEAN_OBS>
+ <STDV_OBS>   20062.8477     </STDV_OBS>
+ <EXP>
+ <ID>        2055 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1144 </NUM>
+ <MEAN>   26813.6504     </MEAN>
+ <STDV>   1.30214156E+28 </STDV>
+ <BIAS>   26530.8027     </BIAS>
+ <RMSE>  0.162555397     </RMSE>
+ <CORR>  0.248069048     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2055 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1144 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   26432.8711     </BIAS>
+ <RMSE>  0.171156496     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   34503.7891     </MEAN_OBS>
+ <STDV_OBS>   19977.2070     </STDV_OBS>
+ <EXP>
+ <ID>        2064 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1144 </NUM>
+ <MEAN>   25301.9668     </MEAN>
+ <STDV>   1.30214533E+28 </STDV>
+ <BIAS>   22790.9961     </BIAS>
+ <RMSE>  0.348378032     </RMSE>
+ <CORR>   1.30181855E+28 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2064 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1144 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   22945.0664     </BIAS>
+ <RMSE>  0.345434189     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   32537.0645     </MEAN_OBS>
+ <STDV_OBS>   20286.9102     </STDV_OBS>
+ <EXP>
+ <ID>        2072 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1142 </NUM>
+ <MEAN>   21543.5645     </MEAN>
+ <STDV>  0.246893406     </STDV>
+ <BIAS>   21038.4336     </BIAS>
+ <RMSE>  0.466414660     </RMSE>
+ <CORR>   1.30181477E+28 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2072 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1142 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   21600.3027     </BIAS>
+ <RMSE>  0.439301550     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   10367.4199     </MEAN_OBS>
+ <STDV_OBS>   19969.0371     </STDV_OBS>
+ <EXP>
+ <ID>        2081 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1085 </NUM>
+ <MEAN>   26849.9082     </MEAN>
+ <STDV>   1.30181855E+28 </STDV>
+ <BIAS>   18760.2402     </BIAS>
+ <RMSE>  0.334509879     </RMSE>
+ <CORR>  0.248069048     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2081 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1085 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   18954.3984     </BIAS>
+ <RMSE>  0.318889141     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   26025.1953     </MEAN_OBS>
+ <STDV_OBS>   20174.3633     </STDV_OBS>
+ <EXP>
+ <ID>        2095 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1159 </NUM>
+ <MEAN>   23508.3887     </MEAN>
+ <STDV>   1.30181099E+28 </STDV>
+ <BIAS>   23057.2402     </BIAS>
+ <RMSE>  0.305737942     </RMSE>
+ <CORR>   1.30182610E+28 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2095 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1159 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   23356.1250     </BIAS>
+ <RMSE>  0.304508120     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   25583.1602     </MEAN_OBS>
+ <STDV_OBS>   19090.8809     </STDV_OBS>
+ <EXP>
+ <ID>        2101 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1152 </NUM>
+ <MEAN>   22233.1191     </MEAN>
+ <STDV>  0.248069048     </STDV>
+ <BIAS>   24889.9570     </BIAS>
+ <RMSE>  0.197803020     </RMSE>
+ <CORR>   1.30181477E+28 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2101 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1152 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   24744.3867     </BIAS>
+ <RMSE>  0.214282215     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   35450.2930     </MEAN_OBS>
+ <STDV_OBS>   19167.7793     </STDV_OBS>
+ <EXP>
+ <ID>        2110 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1123 </NUM>
+ <MEAN>   24659.2500     </MEAN>
+ <STDV>   1.30214533E+28 </STDV>
+ <BIAS>   24711.4375     </BIAS>
+ <RMSE>  0.108320929     </RMSE>
+ <CORR>   1.30181477E+28 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2110 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1123 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   24598.5918     </BIAS>
+ <RMSE>  0.122068919     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   42231.1484     </MEAN_OBS>
+ <STDV_OBS>   19054.2207     </STDV_OBS>
+ <EXP>
+ <ID>        2119 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1135 </NUM>
+ <MEAN>   27328.7207     </MEAN>
+ <STDV>  0.246893406     </STDV>
+ <BIAS>   20869.4648     </BIAS>
+ <RMSE>  0.300759107     </RMSE>
+ <CORR>   1.30183366E+28 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2119 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1135 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   21051.9648     </BIAS>
+ <RMSE>  0.296531618     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   33104.6211     </MEAN_OBS>
+ <STDV_OBS>   20567.0684     </STDV_OBS>
+ <EXP>
+ <ID>        2121 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1145 </NUM>
+ <MEAN>   22843.0820     </MEAN>
+ <STDV>   1.30181477E+28 </STDV>
+ <BIAS>   23119.7578     </BIAS>
+ <RMSE>  0.326630563     </RMSE>
+ <CORR>   1.30182610E+28 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2121 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1145 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   23321.5938     </BIAS>
+ <RMSE>  0.332695961     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   35115.3867     </MEAN_OBS>
+ <STDV_OBS>   17865.5684     </STDV_OBS>
+ <EXP>
+ <ID>        2124 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1120 </NUM>
+ <MEAN>   31813.2285     </MEAN>
+ <STDV>   1.30181099E+28 </STDV>
+ <BIAS>   22399.5176     </BIAS>
+ <RMSE>  0.305650830     </RMSE>
+ <CORR>   1.30181855E+28 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2124 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1120 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   22517.7949     </BIAS>
+ <RMSE>  0.298645318     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   39676.6836     </MEAN_OBS>
+ <STDV_OBS>   19290.1855     </STDV_OBS>
+ <EXP>
+ <ID>        2126 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1128 </NUM>
+ <MEAN>   26728.2227     </MEAN>
+ <STDV>   1.30182610E+28 </STDV>
+ <BIAS>   22094.5840     </BIAS>
+ <RMSE>  0.270197421     </RMSE>
+ <CORR>   1.30183366E+28 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2126 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1128 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   21763.9141     </BIAS>
+ <RMSE>  0.297217369     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   40019.3359     </MEAN_OBS>
+ <STDV_OBS>   20125.4727     </STDV_OBS>
+ <EXP>
+ <ID>        2135 </ID>
+ <NAME>REF</NAME>
+ <NUM>         647 </NUM>
+ <MEAN>   23226.1914     </MEAN>
+ <STDV>   1.30181855E+28 </STDV>
+ <BIAS>   22067.0059     </BIAS>
+ <RMSE>  0.275752366     </RMSE>
+ <CORR>  0.248069048     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2135 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>         647 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   22293.3008     </BIAS>
+ <RMSE>  0.274494469     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   35193.0117     </MEAN_OBS>
+ <STDV_OBS>   19746.5840     </STDV_OBS>
+ <EXP>
+ <ID>        2141 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1159 </NUM>
+ <MEAN>   19993.0527     </MEAN>
+ <STDV>   1.30183366E+28 </STDV>
+ <BIAS>   22478.1914     </BIAS>
+ <RMSE>  0.336348921     </RMSE>
+ <CORR>  0.248069525     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2141 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1159 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   22809.2539     </BIAS>
+ <RMSE>  0.320711851     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   40738.6914     </MEAN_OBS>
+ <STDV_OBS>   20088.1133     </STDV_OBS>
+ <EXP>
+ <ID>        2147 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1151 </NUM>
+ <MEAN>   25924.8789     </MEAN>
+ <STDV>   1.30214533E+28 </STDV>
+ <BIAS>   21904.3867     </BIAS>
+ <RMSE>  0.320297450     </RMSE>
+ <CORR>   1.30214156E+28 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2147 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1151 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   22833.7949     </BIAS>
+ <RMSE>  0.266817003     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   38116.8750     </MEAN_OBS>
+ <STDV_OBS>   19756.8750     </STDV_OBS>
+ <EXP>
+ <ID>        2149 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1122 </NUM>
+ <MEAN>   27267.9844     </MEAN>
+ <STDV>  0.246893406     </STDV>
+ <BIAS>   22882.7266     </BIAS>
+ <RMSE>  0.292750806     </RMSE>
+ <CORR>  0.248069048     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2149 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1122 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   23262.2441     </BIAS>
+ <RMSE>  0.269326240     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   38040.6250     </MEAN_OBS>
+ <STDV_OBS>   19321.8574     </STDV_OBS>
+ <EXP>
+ <ID>        2151 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1152 </NUM>
+ <MEAN>   25927.4824     </MEAN>
+ <STDV>   1.30214156E+28 </STDV>
+ <BIAS>   22509.7441     </BIAS>
+ <RMSE>  0.285080194     </RMSE>
+ <CORR>  0.248069525     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2151 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1152 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   22466.2637     </BIAS>
+ <RMSE>  0.282836944     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   42988.2656     </MEAN_OBS>
+ <STDV_OBS>   19557.9219     </STDV_OBS>
+ <EXP>
+ <ID>        2154 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1159 </NUM>
+ <MEAN>   27187.6719     </MEAN>
+ <STDV>   1.30181099E+28 </STDV>
+ <BIAS>   24884.5547     </BIAS>
+ <RMSE>  0.147456482     </RMSE>
+ <CORR>   1.30181477E+28 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2154 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1159 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   25269.5059     </BIAS>
+ <RMSE>  0.115523666     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   33569.7461     </MEAN_OBS>
+ <STDV_OBS>   20381.3613     </STDV_OBS>
+ <EXP>
+ <ID>        2161 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1105 </NUM>
+ <MEAN>   24596.1738     </MEAN>
+ <STDV>   1.30182610E+28 </STDV>
+ <BIAS>   24080.1777     </BIAS>
+ <RMSE>  0.300483584     </RMSE>
+ <CORR>  0.248069048     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2161 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1105 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   23753.5723     </BIAS>
+ <RMSE>  0.315847576     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   38580.0703     </MEAN_OBS>
+ <STDV_OBS>   18737.8262     </STDV_OBS>
+ <EXP>
+ <ID>        2171 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1144 </NUM>
+ <MEAN>   27196.6973     </MEAN>
+ <STDV>   1.30181477E+28 </STDV>
+ <BIAS>   21193.8945     </BIAS>
+ <RMSE>  0.303702116     </RMSE>
+ <CORR>  0.248069525     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2171 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1144 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   21040.9102     </BIAS>
+ <RMSE>  0.315424114     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   36837.3320     </MEAN_OBS>
+ <STDV_OBS>   19408.7930     </STDV_OBS>
+ <EXP>
+ <ID>        2173 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1152 </NUM>
+ <MEAN>   26818.6602     </MEAN>
+ <STDV>   1.30183366E+28 </STDV>
+ <BIAS>   24574.4980     </BIAS>
+ <RMSE>  0.171230167     </RMSE>
+ <CORR>   1.30181855E+28 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2173 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1152 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   24585.8242     </BIAS>
+ <RMSE>  0.168227986     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   38111.5312     </MEAN_OBS>
+ <STDV_OBS>   20252.2910     </STDV_OBS>
+ <EXP>
+ <ID>        2174 </ID>
+ <NAME>REF</NAME>
+ <NUM>         972 </NUM>
+ <MEAN>   25131.5664     </MEAN>
+ <STDV>  0.248069525     </STDV>
+ <BIAS>   24603.8633     </BIAS>
+ <RMSE>  0.169999689     </RMSE>
+ <CORR>  0.248069048     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2174 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>         972 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   24707.1250     </BIAS>
+ <RMSE>  0.165076807     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   41579.9023     </MEAN_OBS>
+ <STDV_OBS>   15859.1621     </STDV_OBS>
+ <EXP>
+ <ID>        2176 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1136 </NUM>
+ <MEAN>   37079.2227     </MEAN>
+ <STDV>   1.30181855E+28 </STDV>
+ <BIAS>   17463.4531     </BIAS>
+ <RMSE>  0.417094022     </RMSE>
+ <CORR>   1.30214533E+28 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2176 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1136 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   17095.9043     </BIAS>
+ <RMSE>  0.444099396     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   33498.0039     </MEAN_OBS>
+ <STDV_OBS>   19648.3633     </STDV_OBS>
+ <EXP>
+ <ID>        2181 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1129 </NUM>
+ <MEAN>   23242.0156     </MEAN>
+ <STDV>  0.248069048     </STDV>
+ <BIAS>   24250.6230     </BIAS>
+ <RMSE>  0.272955954     </RMSE>
+ <CORR>  0.246893406     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2181 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1129 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   23868.0098     </BIAS>
+ <RMSE>  0.298024505     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   31593.9688     </MEAN_OBS>
+ <STDV_OBS>   20094.1816     </STDV_OBS>
+ <EXP>
+ <ID>        2184 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1159 </NUM>
+ <MEAN>   22172.6289     </MEAN>
+ <STDV>   1.30214533E+28 </STDV>
+ <BIAS>   24701.6562     </BIAS>
+ <RMSE>  0.278892696     </RMSE>
+ <CORR>   1.30214156E+28 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2184 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1159 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   24825.3398     </BIAS>
+ <RMSE>  0.277380735     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   42088.0938     </MEAN_OBS>
+ <STDV_OBS>   18451.8691     </STDV_OBS>
+ <EXP>
+ <ID>        2186 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1159 </NUM>
+ <MEAN>   27516.5234     </MEAN>
+ <STDV>   1.30182610E+28 </STDV>
+ <BIAS>   23165.8184     </BIAS>
+ <RMSE>  0.243959814     </RMSE>
+ <CORR>   1.30181099E+28 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2186 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1159 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   23326.0293     </BIAS>
+ <RMSE>  0.237752318     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   39021.8711     </MEAN_OBS>
+ <STDV_OBS>   17113.1016     </STDV_OBS>
+ <EXP>
+ <ID>        2188 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1145 </NUM>
+ <MEAN>   35608.9492     </MEAN>
+ <STDV>   1.30181477E+28 </STDV>
+ <BIAS>   15904.9697     </BIAS>
+ <RMSE>  0.541301966     </RMSE>
+ <CORR>  0.246893406     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2188 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1145 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   16010.8184     </BIAS>
+ <RMSE>  0.540203035     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   35507.3477     </MEAN_OBS>
+ <STDV_OBS>   17510.4043     </STDV_OBS>
+ <EXP>
+ <ID>        2191 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1135 </NUM>
+ <MEAN>   33526.8359     </MEAN>
+ <STDV>   1.30181099E+28 </STDV>
+ <BIAS>   17966.5137     </BIAS>
+ <RMSE>  0.507201433     </RMSE>
+ <CORR>   1.30214156E+28 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2191 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1135 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   17900.2539     </BIAS>
+ <RMSE>  0.512060046     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   32521.8027     </MEAN_OBS>
+ <STDV_OBS>   19281.3809     </STDV_OBS>
+ <EXP>
+ <ID>        2197 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1159 </NUM>
+ <MEAN>   24739.4668     </MEAN>
+ <STDV>  0.246893406     </STDV>
+ <BIAS>   23047.2480     </BIAS>
+ <RMSE>  0.293815523     </RMSE>
+ <CORR>   1.30183366E+28 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2197 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1159 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   23102.5508     </BIAS>
+ <RMSE>  0.295997769     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   31031.4707     </MEAN_OBS>
+ <STDV_OBS>   19966.7383     </STDV_OBS>
+ <EXP>
+ <ID>        2199 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1137 </NUM>
+ <MEAN>   21284.6484     </MEAN>
+ <STDV>   1.30214156E+28 </STDV>
+ <BIAS>   23630.4629     </BIAS>
+ <RMSE>  0.331697911     </RMSE>
+ <CORR>  0.248069525     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2199 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1137 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   23973.9941     </BIAS>
+ <RMSE>  0.329372257     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   34946.7461     </MEAN_OBS>
+ <STDV_OBS>   19882.6465     </STDV_OBS>
+ <EXP>
+ <ID>        2230 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1144 </NUM>
+ <MEAN>   24872.1895     </MEAN>
+ <STDV>   1.30183366E+28 </STDV>
+ <BIAS>   24706.1699     </BIAS>
+ <RMSE>  0.195368454     </RMSE>
+ <CORR>   1.30181855E+28 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2230 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1144 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   24724.1699     </BIAS>
+ <RMSE>  0.198677540     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   38234.9805     </MEAN_OBS>
+ <STDV_OBS>   20688.5742     </STDV_OBS>
+ <EXP>
+ <ID>        2236 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1144 </NUM>
+ <MEAN>   24360.0059     </MEAN>
+ <STDV>   1.30214533E+28 </STDV>
+ <BIAS>   25916.1582     </BIAS>
+ <RMSE>  0.108105384     </RMSE>
+ <CORR>  0.248069048     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2236 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1144 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   25843.8047     </BIAS>
+ <RMSE>  0.121513948     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   38826.0195     </MEAN_OBS>
+ <STDV_OBS>   20206.6094     </STDV_OBS>
+ <EXP>
+ <ID>        2242 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1113 </NUM>
+ <MEAN>   26266.3906     </MEAN>
+ <STDV>   1.30181855E+28 </STDV>
+ <BIAS>   24781.8281     </BIAS>
+ <RMSE>  0.154550269     </RMSE>
+ <CORR>  0.248069525     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2242 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1113 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   24420.6016     </BIAS>
+ <RMSE>  0.177043080     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   39016.5977     </MEAN_OBS>
+ <STDV_OBS>   19802.6094     </STDV_OBS>
+ <EXP>
+ <ID>        2245 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1122 </NUM>
+ <MEAN>   24938.4082     </MEAN>
+ <STDV>   1.30181477E+28 </STDV>
+ <BIAS>   24822.9160     </BIAS>
+ <RMSE>  0.104650199     </RMSE>
+ <CORR>   1.30182610E+28 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2245 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1122 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   24887.4102     </BIAS>
+ <RMSE>   9.86813530E-02 </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   32770.8008     </MEAN_OBS>
+ <STDV_OBS>   20275.8203     </STDV_OBS>
+ <EXP>
+ <ID>        2254 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1137 </NUM>
+ <MEAN>   24534.7988     </MEAN>
+ <STDV>   1.30181099E+28 </STDV>
+ <BIAS>   24771.3379     </BIAS>
+ <RMSE>  0.265518934     </RMSE>
+ <CORR>  0.248069048     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2254 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1137 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   24654.1328     </BIAS>
+ <RMSE>  0.276316345     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   44094.1094     </MEAN_OBS>
+ <STDV_OBS>   19691.1582     </STDV_OBS>
+ <EXP>
+ <ID>        2260 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1155 </NUM>
+ <MEAN>   25232.8691     </MEAN>
+ <STDV>   1.30182610E+28 </STDV>
+ <BIAS>   20171.3691     </BIAS>
+ <RMSE>  0.307442874     </RMSE>
+ <CORR>  0.248069525     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2260 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1155 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   20023.8984     </BIAS>
+ <RMSE>  0.317405134     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   38401.2461     </MEAN_OBS>
+ <STDV_OBS>   19019.0703     </STDV_OBS>
+ <EXP>
+ <ID>        2261 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1152 </NUM>
+ <MEAN>   26893.4395     </MEAN>
+ <STDV>   1.30214156E+28 </STDV>
+ <BIAS>   22886.6230     </BIAS>
+ <RMSE>  0.238335118     </RMSE>
+ <CORR>  0.246893406     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2261 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1152 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   22826.3359     </BIAS>
+ <RMSE>  0.246949434     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   38837.2344     </MEAN_OBS>
+ <STDV_OBS>   20023.0352     </STDV_OBS>
+ <EXP>
+ <ID>        2263 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1156 </NUM>
+ <MEAN>   23648.0293     </MEAN>
+ <STDV>   1.30183366E+28 </STDV>
+ <BIAS>   24099.8594     </BIAS>
+ <RMSE>  0.220961854     </RMSE>
+ <CORR>  0.248069048     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2263 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1156 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   23936.7305     </BIAS>
+ <RMSE>  0.231741682     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   39887.0430     </MEAN_OBS>
+ <STDV_OBS>   19881.7656     </STDV_OBS>
+ <EXP>
+ <ID>        2265 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1151 </NUM>
+ <MEAN>   24535.8730     </MEAN>
+ <STDV>  0.246893406     </STDV>
+ <BIAS>   21761.5391     </BIAS>
+ <RMSE>  0.294429958     </RMSE>
+ <CORR>  0.248069525     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2265 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1151 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   21455.4414     </BIAS>
+ <RMSE>  0.318935722     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   23765.9707     </MEAN_OBS>
+ <STDV_OBS>   19499.1211     </STDV_OBS>
+ <EXP>
+ <ID>        2219 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1144 </NUM>
+ <MEAN>   22830.5000     </MEAN>
+ <STDV>  0.248069048     </STDV>
+ <BIAS>   23931.5645     </BIAS>
+ <RMSE>  0.152915642     </RMSE>
+ <CORR>   1.30214533E+28 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2219 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1144 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   24378.5215     </BIAS>
+ <RMSE>  0.112988099     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   37884.4062     </MEAN_OBS>
+ <STDV_OBS>   20172.5898     </STDV_OBS>
+ <EXP>
+ <ID>        2243 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1093 </NUM>
+ <MEAN>   22528.3789     </MEAN>
+ <STDV>   1.30181477E+28 </STDV>
+ <BIAS>   25034.5762     </BIAS>
+ <RMSE>  0.120545365     </RMSE>
+ <CORR>   1.30181855E+28 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2243 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1093 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   24875.9902     </BIAS>
+ <RMSE>  0.133439660     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   10642.9688     </MEAN_OBS>
+ <STDV_OBS>   18510.8320     </STDV_OBS>
+ <EXP>
+ <ID>        1062 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1159 </NUM>
+ <MEAN>   36480.4141     </MEAN>
+ <STDV>   1.30181099E+28 </STDV>
+ <BIAS>   16967.9609     </BIAS>
+ <RMSE>  0.434699237     </RMSE>
+ <CORR>  0.248069525     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1062 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1159 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   17452.8438     </BIAS>
+ <RMSE>  0.344613671     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   18388.0781     </MEAN_OBS>
+ <STDV_OBS>   20178.5723     </STDV_OBS>
+ <EXP>
+ <ID>        1001 </ID>
+ <NAME>REF</NAME>
+ <NUM>         889 </NUM>
+ <MEAN>   30187.1152     </MEAN>
+ <STDV>   1.30181099E+28 </STDV>
+ <BIAS>   19289.1367     </BIAS>
+ <RMSE>  0.393533558     </RMSE>
+ <CORR>   1.30214533E+28 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1001 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>         889 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   19499.5039     </BIAS>
+ <RMSE>  0.373364329     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   59080.4922     </MEAN_OBS>
+ <STDV_OBS>   16554.5566     </STDV_OBS>
+ <EXP>
+ <ID>        1023 </ID>
+ <NAME>REF</NAME>
+ <NUM>         733 </NUM>
+ <MEAN>   31518.9902     </MEAN>
+ <STDV>   1.30182610E+28 </STDV>
+ <BIAS>   21677.9668     </BIAS>
+ <RMSE>  0.285539061     </RMSE>
+ <CORR>  0.246893406     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1023 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>         733 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   22026.3242     </BIAS>
+ <RMSE>  0.267832547     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   33564.9531     </MEAN_OBS>
+ <STDV_OBS>   19189.7148     </STDV_OBS>
+ <EXP>
+ <ID>        1025 </ID>
+ <NAME>REF</NAME>
+ <NUM>         416 </NUM>
+ <MEAN>   31053.2266     </MEAN>
+ <STDV>   1.30181855E+28 </STDV>
+ <BIAS>   26089.4766     </BIAS>
+ <RMSE>  0.180132151     </RMSE>
+ <CORR>  0.246893406     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1025 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>         416 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   27031.8242     </BIAS>
+ <RMSE>  0.107742161     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   12288.5420     </MEAN_OBS>
+ <STDV_OBS>   20548.0332     </STDV_OBS>
+ <EXP>
+ <ID>        1028 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1152 </NUM>
+ <MEAN>   34956.2500     </MEAN>
+ <STDV>   1.30182610E+28 </STDV>
+ <BIAS>   17916.5859     </BIAS>
+ <RMSE>  0.477157801     </RMSE>
+ <CORR>  0.248069525     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1028 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1152 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   18120.0176     </BIAS>
+ <RMSE>  0.473153532     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   36252.2109     </MEAN_OBS>
+ <STDV_OBS>   17188.5352     </STDV_OBS>
+ <EXP>
+ <ID>        2862 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1159 </NUM>
+ <MEAN>   32360.8750     </MEAN>
+ <STDV>   1.30183366E+28 </STDV>
+ <BIAS>   19153.0625     </BIAS>
+ <RMSE>  0.416542411     </RMSE>
+ <CORR>  0.246893406     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2862 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1159 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   18948.5996     </BIAS>
+ <RMSE>  0.437381327     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   50770.1836     </MEAN_OBS>
+ <STDV_OBS>   18534.7090     </STDV_OBS>
+ <EXP>
+ <ID>        2807 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1159 </NUM>
+ <MEAN>   28141.7051     </MEAN>
+ <STDV>   1.30181855E+28 </STDV>
+ <BIAS>   27753.7656     </BIAS>
+ <RMSE>  0.245234728     </RMSE>
+ <CORR>  0.248069525     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2807 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1159 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   29073.2090     </BIAS>
+ <RMSE>  0.167592511     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   35780.9453     </MEAN_OBS>
+ <STDV_OBS>   19067.1152     </STDV_OBS>
+ <EXP>
+ <ID>        2880 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1159 </NUM>
+ <MEAN>   25281.4961     </MEAN>
+ <STDV>  0.248069048     </STDV>
+ <BIAS>   21987.1387     </BIAS>
+ <RMSE>  0.325242370     </RMSE>
+ <CORR>   1.30214533E+28 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2880 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1159 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   22184.3379     </BIAS>
+ <RMSE>  0.318518788     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   28801.6484     </MEAN_OBS>
+ <STDV_OBS>   19548.7598     </STDV_OBS>
+ <EXP>
+ <ID>        2844 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1159 </NUM>
+ <MEAN>   23128.3105     </MEAN>
+ <STDV>   1.30181477E+28 </STDV>
+ <BIAS>   23323.6348     </BIAS>
+ <RMSE>  0.267046094     </RMSE>
+ <CORR>  0.246893406     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2844 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1159 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   23115.8438     </BIAS>
+ <RMSE>  0.290399998     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   14146.6875     </MEAN_OBS>
+ <STDV_OBS>   19519.6855     </STDV_OBS>
+ <EXP>
+ <ID>        2845 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1159 </NUM>
+ <MEAN>   21619.9277     </MEAN>
+ <STDV>   1.30181099E+28 </STDV>
+ <BIAS>   17650.9375     </BIAS>
+ <RMSE>  0.399924427     </RMSE>
+ <CORR>  0.248069525     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2845 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1159 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   17993.2227     </BIAS>
+ <RMSE>  0.386863828     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   30799.0488     </MEAN_OBS>
+ <STDV_OBS>   20652.6445     </STDV_OBS>
+ <EXP>
+ <ID>        2836 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1159 </NUM>
+ <MEAN>   25922.2656     </MEAN>
+ <STDV>   1.30182610E+28 </STDV>
+ <BIAS>   25586.1758     </BIAS>
+ <RMSE>  0.230174124     </RMSE>
+ <CORR>   1.30214533E+28 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2836 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1159 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   26265.1016     </BIAS>
+ <RMSE>  0.197065026     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   28440.2422     </MEAN_OBS>
+ <STDV_OBS>   19546.8086     </STDV_OBS>
+ <EXP>
+ <ID>        2814 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1159 </NUM>
+ <MEAN>   23187.3633     </MEAN>
+ <STDV>   1.30214156E+28 </STDV>
+ <BIAS>   22603.3203     </BIAS>
+ <RMSE>  0.373418897     </RMSE>
+ <CORR>  0.246893406     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2814 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1159 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   23350.8613     </BIAS>
+ <RMSE>  0.334973514     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   15824.9053     </MEAN_OBS>
+ <STDV_OBS>   19225.3867     </STDV_OBS>
+ <EXP>
+ <ID>        2849 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1156 </NUM>
+ <MEAN>   25214.4238     </MEAN>
+ <STDV>   1.30183366E+28 </STDV>
+ <BIAS>   18221.7812     </BIAS>
+ <RMSE>  0.314531147     </RMSE>
+ <CORR>  0.248069525     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2849 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1156 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   18348.3633     </BIAS>
+ <RMSE>  0.300385743     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   15749.2158     </MEAN_OBS>
+ <STDV_OBS>   20203.4375     </STDV_OBS>
+ <EXP>
+ <ID>        2801 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1159 </NUM>
+ <MEAN>   22908.5859     </MEAN>
+ <STDV>   1.30181855E+28 </STDV>
+ <BIAS>   20232.0918     </BIAS>
+ <RMSE>  0.173005641     </RMSE>
+ <CORR>   1.30214533E+28 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2801 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1159 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   20250.1367     </BIAS>
+ <RMSE>  0.154286623     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   32367.1113     </MEAN_OBS>
+ <STDV_OBS>   19411.1074     </STDV_OBS>
+ <EXP>
+ <ID>        2805 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1159 </NUM>
+ <MEAN>   21738.7754     </MEAN>
+ <STDV>  0.248069048     </STDV>
+ <BIAS>   23900.0996     </BIAS>
+ <RMSE>  0.229260430     </RMSE>
+ <CORR>  0.246893406     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2805 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1159 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   23819.5820     </BIAS>
+ <RMSE>  0.223529100     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   36812.7656     </MEAN_OBS>
+ <STDV_OBS>   18465.4102     </STDV_OBS>
+ <EXP>
+ <ID>        2835 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1159 </NUM>
+ <MEAN>   28577.5098     </MEAN>
+ <STDV>   1.30181477E+28 </STDV>
+ <BIAS>   22784.8574     </BIAS>
+ <RMSE>  0.220683739     </RMSE>
+ <CORR>  0.248069525     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2835 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1159 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   22636.6172     </BIAS>
+ <RMSE>  0.229121387     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   56042.8711     </MEAN_OBS>
+ <STDV_OBS>   10617.8193     </STDV_OBS>
+ <EXP>
+ <ID>        1008 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1003 </NUM>
+ <MEAN>   44977.5547     </MEAN>
+ <STDV>   1.30181099E+28 </STDV>
+ <BIAS>   19979.6543     </BIAS>
+ <RMSE>  0.306328326     </RMSE>
+ <CORR>   1.30214533E+28 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1008 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1003 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   20002.2227     </BIAS>
+ <RMSE>  0.301045477     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   51491.2266     </MEAN_OBS>
+ <STDV_OBS>   17437.8984     </STDV_OBS>
+ <EXP>
+ <ID>        1026 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1151 </NUM>
+ <MEAN>   33730.5898     </MEAN>
+ <STDV>   1.30182610E+28 </STDV>
+ <BIAS>   24765.0430     </BIAS>
+ <RMSE>  0.348859549     </RMSE>
+ <CORR>  0.246893406     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1026 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1151 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   25408.8691     </BIAS>
+ <RMSE>  0.308654606     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   27797.0078     </MEAN_OBS>
+ <STDV_OBS>   18962.3984     </STDV_OBS>
+ <EXP>
+ <ID>        2847 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1159 </NUM>
+ <MEAN>   25830.4297     </MEAN>
+ <STDV>   1.30182610E+28 </STDV>
+ <BIAS>   22535.5000     </BIAS>
+ <RMSE>  0.282973349     </RMSE>
+ <CORR>  0.248069525     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2847 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1159 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   23016.2324     </BIAS>
+ <RMSE>  0.258351892     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   22481.6895     </MEAN_OBS>
+ <STDV_OBS>   20291.6895     </STDV_OBS>
+ <EXP>
+ <ID>        2821 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1024 </NUM>
+ <MEAN>   20367.3926     </MEAN>
+ <STDV>   1.30181477E+28 </STDV>
+ <BIAS>   20185.1465     </BIAS>
+ <RMSE>  0.552356124     </RMSE>
+ <CORR>  0.246893406     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2821 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1024 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   20267.5371     </BIAS>
+ <RMSE>  0.545502543     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   15526.9121     </MEAN_OBS>
+ <STDV_OBS>   20310.2402     </STDV_OBS>
+ <EXP>
+ <ID>        2717 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1159 </NUM>
+ <MEAN>   21753.5879     </MEAN>
+ <STDV>  0.248069048     </STDV>
+ <BIAS>   18659.4336     </BIAS>
+ <RMSE>  0.372103721     </RMSE>
+ <CORR>   1.30182610E+28 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2717 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1159 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   19040.6641     </BIAS>
+ <RMSE>  0.348073274     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   27818.0605     </MEAN_OBS>
+ <STDV_OBS>   20151.0820     </STDV_OBS>
+ <EXP>
+ <ID>        2726 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1159 </NUM>
+ <MEAN>   21537.7383     </MEAN>
+ <STDV>   1.30181477E+28 </STDV>
+ <BIAS>   21326.2363     </BIAS>
+ <RMSE>  0.466342568     </RMSE>
+ <CORR>   1.30214533E+28 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2726 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1159 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   20943.9434     </BIAS>
+ <RMSE>  0.480860561     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   15529.0166     </MEAN_OBS>
+ <STDV_OBS>   19855.4688     </STDV_OBS>
+ <EXP>
+ <ID>        2857 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1159 </NUM>
+ <MEAN>   24960.9531     </MEAN>
+ <STDV>   1.30181099E+28 </STDV>
+ <BIAS>   19604.9062     </BIAS>
+ <RMSE>  0.182590961     </RMSE>
+ <CORR>   1.30182610E+28 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2857 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1159 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   19820.7461     </BIAS>
+ <RMSE>  0.175071821     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   16743.2441     </MEAN_OBS>
+ <STDV_OBS>   19305.5449     </STDV_OBS>
+ <EXP>
+ <ID>        2702 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1159 </NUM>
+ <MEAN>   27191.2188     </MEAN>
+ <STDV>  0.248069048     </STDV>
+ <BIAS>   19366.5078     </BIAS>
+ <RMSE>  0.161961988     </RMSE>
+ <CORR>   1.30181099E+28 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2702 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1159 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   19184.8145     </BIAS>
+ <RMSE>  0.171333909     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   40359.6367     </MEAN_OBS>
+ <STDV_OBS>   19220.4883     </STDV_OBS>
+ <EXP>
+ <ID>        2864 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1159 </NUM>
+ <MEAN>   24940.5684     </MEAN>
+ <STDV>   1.30214156E+28 </STDV>
+ <BIAS>   25662.6074     </BIAS>
+ <RMSE>  0.323324025     </RMSE>
+ <CORR>  0.246893406     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2864 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1159 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   25708.6367     </BIAS>
+ <RMSE>  0.324653596     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   28519.6562     </MEAN_OBS>
+ <STDV_OBS>   19838.2031     </STDV_OBS>
+ <EXP>
+ <ID>        2881 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1159 </NUM>
+ <MEAN>   21502.2637     </MEAN>
+ <STDV>   1.30181477E+28 </STDV>
+ <BIAS>   23504.5645     </BIAS>
+ <RMSE>  0.311118633     </RMSE>
+ <CORR>  0.248069525     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2881 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1159 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   24568.2012     </BIAS>
+ <RMSE>  0.251411587     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   45947.7852     </MEAN_OBS>
+ <STDV_OBS>   20581.4648     </STDV_OBS>
+ <EXP>
+ <ID>        2720 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1159 </NUM>
+ <MEAN>   25265.6172     </MEAN>
+ <STDV>   1.30214533E+28 </STDV>
+ <BIAS>   31336.7754     </BIAS>
+ <RMSE>  0.287013024     </RMSE>
+ <CORR>   1.30181099E+28 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2720 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1159 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   30867.6934     </BIAS>
+ <RMSE>  0.314117938     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   28155.7051     </MEAN_OBS>
+ <STDV_OBS>   20546.0762     </STDV_OBS>
+ <EXP>
+ <ID>        2816 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1159 </NUM>
+ <MEAN>   23014.4570     </MEAN>
+ <STDV>   1.30181099E+28 </STDV>
+ <BIAS>   23521.4004     </BIAS>
+ <RMSE>  0.349858820     </RMSE>
+ <CORR>  0.248069525     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        2816 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1159 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   23757.8301     </BIAS>
+ <RMSE>  0.336185038     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   17175.9336     </MEAN_OBS>
+ <STDV_OBS>   20335.4824     </STDV_OBS>
+ <EXP>
+ <ID>        1003 </ID>
+ <NAME>REF</NAME>
+ <NUM>        1151 </NUM>
+ <MEAN>   34181.9805     </MEAN>
+ <STDV>   1.30214156E+28 </STDV>
+ <BIAS>   17403.8340     </BIAS>
+ <RMSE>  0.522164702     </RMSE>
+ <CORR>   1.30181855E+28 </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1003 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>        1151 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   17124.9883     </BIAS>
+ <RMSE>  0.540987253     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   56852.3828     </MEAN_OBS>
+ <STDV_OBS>   10767.0488     </STDV_OBS>
+ <EXP>
+ <ID>        1007 </ID>
+ <NAME>REF</NAME>
+ <NUM>         462 </NUM>
+ <MEAN>   47123.0078     </MEAN>
+ <STDV>   1.30181477E+28 </STDV>
+ <BIAS>   21650.6328     </BIAS>
+ <RMSE>  0.136178181     </RMSE>
+ <CORR>  0.246893406     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1007 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>         462 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   22529.1660     </BIAS>
+ <RMSE>  0.106485084     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+ <STATION>
+ <MEAN_OBS>   45092.4648     </MEAN_OBS>
+ <STDV_OBS>   20214.6738     </STDV_OBS>
+ <EXP>
+ <ID>        1047 </ID>
+ <NAME>REF</NAME>
+ <NUM>         889 </NUM>
+ <MEAN>   27692.4961     </MEAN>
+ <STDV>   1.30214533E+28 </STDV>
+ <BIAS>   27069.8672     </BIAS>
+ <RMSE>  0.210064396     </RMSE>
+ <CORR>  0.248069525     </CORR>
+ </EXP>
+ <EXP>
+ <ID>        1047 </ID>
+ <NAME>SAR_4</NAME>
+ <NUM>         889 </NUM>
+ <MEAN>   0.00000000     </MEAN>
+ <STDV>   0.00000000     </STDV>
+ <BIAS>   26897.3262     </BIAS>
+ <RMSE>  0.216987655     </RMSE>
+ <CORR>   0.00000000     </CORR>
+ </EXP>
+ </STATION>
+</STAT>
